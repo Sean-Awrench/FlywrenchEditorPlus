@@ -9,7 +9,7 @@ Features:
 - Yellow has been added as a colour for Pinwheels, moving lines, and turrets.
 - 4 New gravity well objects.
 
-Hotkeys: While gravity well following number keys to switch between the new gravity wells.
+Hotkeys: While gravity well is selected press the following number keys to switch between the new gravity wells.
 - 1: Normal gravity well
 - 2: Reverse gravity well
 - 3: Zero gravity well
